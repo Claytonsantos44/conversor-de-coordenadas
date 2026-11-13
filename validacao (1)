@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 542cca1bdcbe7e6858e10fa150666793f40f94ce Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	branch: Created from HEAD
+542cca1bdcbe7e6858e10fa150666793f40f94ce e1e2821a9a9be3f489eba2e8b436275141bc691b Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	commit: Valida limites de latitude (±90) e longitude (±180)

@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 b82dced6d96e01e8ab73bd3b7824dbf4f0deb9c4 Clayton <claytonsantos2317@gmail.com> 1794574173 -0300	commit (initial): Commit inicial: conversor de graus decimais para GMS
+b82dced6d96e01e8ab73bd3b7824dbf4f0deb9c4 b82dced6d96e01e8ab73bd3b7824dbf4f0deb9c4 Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	checkout: moving from main to feature/hemisferio
+b82dced6d96e01e8ab73bd3b7824dbf4f0deb9c4 a78186d29d3cfb24e461ac239a9ead858d703807 Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	commit: Adiciona indicação de hemisfério (N/S/L/O)
+a78186d29d3cfb24e461ac239a9ead858d703807 b82dced6d96e01e8ab73bd3b7824dbf4f0deb9c4 Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	checkout: moving from feature/hemisferio to main
+b82dced6d96e01e8ab73bd3b7824dbf4f0deb9c4 542cca1bdcbe7e6858e10fa150666793f40f94ce Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	merge feature/hemisferio: Merge made by the 'ort' strategy.
+542cca1bdcbe7e6858e10fa150666793f40f94ce 542cca1bdcbe7e6858e10fa150666793f40f94ce Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	checkout: moving from main to feature/validacao
+542cca1bdcbe7e6858e10fa150666793f40f94ce e1e2821a9a9be3f489eba2e8b436275141bc691b Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	commit: Valida limites de latitude (±90) e longitude (±180)
+e1e2821a9a9be3f489eba2e8b436275141bc691b 542cca1bdcbe7e6858e10fa150666793f40f94ce Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	checkout: moving from feature/validacao to main
+542cca1bdcbe7e6858e10fa150666793f40f94ce f3024d9cc2a8d74dcbd133078f0ce54dc2e7d633 Clayton <claytonsantos2317@gmail.com> 1794574174 -0300	merge feature/validacao: Merge made by the 'ort' strategy.
