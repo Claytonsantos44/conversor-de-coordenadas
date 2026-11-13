@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conversor de Coordenadas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <h1>Conversor de Coordenadas</h1>
+    <p>Converte coordenadas em graus decimais para graus, minutos e segundos (GMS).</p>
+
+    <label for="decimal">Graus decimais</label>
+    <input type="number" id="decimal" step="any" placeholder="-23.5505">
+
+    <label for="tipo">Tipo</label>
+    <select id="tipo">
+      <option value="lat">Latitude</option>
+      <option value="lon">Longitude</option>
+    </select>
+
+    <button id="converter">Converter</button>
+    <p id="resultado"></p>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
