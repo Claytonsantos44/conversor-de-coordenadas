@@ -6,3 +6,4 @@ Pequeno sistema web que converte coordenadas geográficas de **graus decimais** 
 
 ## Como usar
 Abra o arquivo `index.html` no navegador, digite o valor e clique em **Converter**.
+Autor: Clayton Santos
